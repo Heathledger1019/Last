@@ -5,7 +5,7 @@
 			"type": "商业",
 			"chargeperson": "Mike",
 			"starttime": "2019-01-01",
-			"endtime": "2019-03-27",
+			"endtime": "2019-03-28",
 			"state": "0",
 			"moreinfo": "A计划",
 			"subproject": [
@@ -22,7 +22,8 @@
 					"subprojectinfo": "产品化"
 				}
 			],
-			"mark": 0
+			"mark": 0,
+			"timelimit": "84"
 		},
 		{
 			"company": "XXX房地产",
@@ -38,7 +39,8 @@
 					"subprojectinfo": "More B project subproject informations"
 				}
 			],
-			"mark": 0
+			"mark": 0,
+			"timelimit": "7"
 		}
 	]
 }
