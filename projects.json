@@ -6,7 +6,22 @@
 			"endtime": "2019-01-01",
 			"moreinfo": "More informations",
 			"timelimit": 11,
-			"chargeperson": "asdas"
+			"chargeperson": "asdas",
+			"state": "未确认",
+			"subproject": [
+				{
+					"subtimelimit": 231,
+					"weight": 2312,
+					"type": "aasdd",
+					"subprojectinfo": "More subproject informations"
+				},
+				{
+					"subtimelimit": 2,
+					"weight": 222,
+					"type": "ssss",
+					"subprojectinfo": "More subproject informations"
+				}
+			]
 		}
 	]
 }
