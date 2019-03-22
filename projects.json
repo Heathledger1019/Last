@@ -7,7 +7,7 @@
 			"endtime": "2019-01-01",
 			"moreinfo": "More informations",
 			"timelimit": 11,
-			"chargeperson": "asdas",
+			"chargeperson": "0.asdas",
 			"state": "未确认",
 			"subproject": [
 				{
@@ -32,5 +32,6 @@
 				}
 			]
 		}
-	]
+	],
+	"use2": "项目管理"
 }
