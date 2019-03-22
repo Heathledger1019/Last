@@ -26,6 +26,12 @@
 					"weight": 23,
 					"type": "asda",
 					"subprojectinfo": "More subproject informations"
+				},
+				{
+					"subtimelimit": 232,
+					"weight": 4,
+					"type": "asdas",
+					"subprojectinfo": "More subproject informations"
 				}
 			]
 		}
