@@ -20,6 +20,12 @@
 					"weight": 222,
 					"type": "ssss",
 					"subprojectinfo": "More subproject informations"
+				},
+				{
+					"subtimelimit": 2,
+					"weight": 23,
+					"type": "asda",
+					"subprojectinfo": "More subproject informations"
 				}
 			]
 		}
