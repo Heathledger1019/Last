@@ -21,7 +21,8 @@
 					"subtimelimit": 40,
 					"subprojectinfo": "产品化"
 				}
-			]
+			],
+			"mark": 0
 		},
 		{
 			"company": "XXX房地产",
@@ -36,7 +37,8 @@
 					"subtimelimit": 7,
 					"subprojectinfo": "More B project subproject informations"
 				}
-			]
+			],
+			"mark": 0
 		}
 	]
 }
