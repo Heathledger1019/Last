@@ -8,7 +8,7 @@
 			"endtime": "2019-03-29",
 			"state": "0",
 			"moreinfo": "A计划",
-			"projectid":1,
+			"projectid": 1,
 			"subproject": [
 				{
 					"subtimelimit": 4,
@@ -31,8 +31,8 @@
 			"chargeperson": "Alms",
 			"starttime": "2019-03-18",
 			"endtime": "2019-03-25",
-			"state": "1",
-			"projectid":2,
+			"state": "2",
+			"projectid": 2,
 			"moreinfo": "B project More informations",
 			"subproject": [
 				{
