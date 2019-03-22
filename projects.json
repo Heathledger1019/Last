@@ -2,11 +2,11 @@
 	"project": [
 		{
 			"company": "XXX房地产",
-			"type": "jd",
+			"type": "商业",
 			"chargeperson": "Mike",
 			"timelimit": 10,
 			"starttime": "2019-01-01",
-			"endtime": "2019-03-25",
+			"endtime": "2019-03-26",
 			"state": "0",
 			"moreinfo": "A计划",
 			"subproject": [
@@ -29,9 +29,9 @@
 			"type": "商业",
 			"chargeperson": "Alms",
 			"timelimit": 22,
-			"starttime": "2019-03-18",
+			"starttime": "2019-03-23",
 			"endtime": "2019-03-24",
-			"state": "1",
+			"state": "0",
 			"moreinfo": "B project More informations",
 			"subproject": [
 				{
