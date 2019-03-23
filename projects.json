@@ -9,7 +9,20 @@
 			"state": "0",
 			"moreinfo": "A计划",
 			"projectid": 1,
-			"subproject": [],
+			"subproject": [
+				{
+					"subtimelimit": 6,
+					"subprojectinfo": "More subproject informations1"
+				},
+				{
+					"subtimelimit": 5,
+					"subprojectinfo": "More subproject informations2"
+				},
+				{
+					"subtimelimit": 54,
+					"subprojectinfo": "More subproject informations3"
+				}
+			],
 			"mark": 0
 		},
 		{
@@ -21,7 +34,12 @@
 			"state": "2",
 			"projectid": 2,
 			"moreinfo": "B project More informations",
-			"subproject": [],
+			"subproject": [
+				{
+					"subtimelimit": 7,
+					"subprojectinfo": "More subproject informations12312321321"
+				}
+			],
 			"mark": 10
 		}
 	]
