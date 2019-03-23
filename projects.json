@@ -9,20 +9,7 @@
 			"state": "0",
 			"moreinfo": "A计划",
 			"projectid": 1,
-			"subproject": [
-				{
-					"subtimelimit": 4,
-					"subprojectinfo": "调研"
-				},
-				{
-					"subtimelimit": 40,
-					"subprojectinfo": "实现"
-				},
-				{
-					"subtimelimit": 40,
-					"subprojectinfo": "产品化"
-				}
-			],
+			"subproject": [],
 			"mark": 0
 		},
 		{
@@ -34,13 +21,8 @@
 			"state": "2",
 			"projectid": 2,
 			"moreinfo": "B project More informations",
-			"subproject": [
-				{
-					"subtimelimit": 7,
-					"subprojectinfo": "More B project subproject informations"
-				}
-			],
-			"mark": 0
+			"subproject": [],
+			"mark": 10
 		}
 	]
 }
