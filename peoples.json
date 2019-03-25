@@ -1,11 +1,11 @@
 {
 	"personinfo": [
 		{
-			"bg-image": "../assets/img/bg5.jpg",
-			"person-image": "../assets/img/mike.jpg",
-			"people-name": "Mike Andrew",
+			"bg-image": "C:\\Users\\YUANSHIYI\\Pictures\\19185_en_1.jpg",
+			"person-image": "C:\\Users\\YUANSHIYI\\Pictures\\Yy烟\\timg.jpg",
+			"people-name": "Alms",
 			"ContactInformation": "\n                    michael24@yahoo.com\n                ",
-			"peoplemoreinfo1": "\"Lamborghini Mercy ",
+			"peoplemoreinfo1": "人力资源岗位",
 			"peoplemoreinfo2": "Your chick she so thirsty ",
 			"peoplemoreinfo3": "I'm in that two seat Lambo\""
 		},
@@ -14,9 +14,27 @@
 			"person-image": "C:\\Users\\YUANSHIYI\\Pictures\\TIM.jpg",
 			"people-name": "小楼",
 			"ContactInformation": "xiaolou@163.com",
-			"peoplemoreinfo1": "A cat",
+			"peoplemoreinfo1": "项目经理",
 			"peoplemoreinfo2": "fat!",
 			"peoplemoreinfo3": "famous"
+		},
+		{
+			"bg-image": "C:\\Users\\YUANSHIYI\\Pictures\\19230_en_1.jpg",
+			"person-image": "C:\\Users\\YUANSHIYI\\Pictures\\TIM图片20190310001433.jpg",
+			"people-name": "小猫咪",
+			"ContactInformation": "sajdk@124.com",
+			"peoplemoreinfo1": "测试员",
+			"peoplemoreinfo2": "座右铭1",
+			"peoplemoreinfo3": "座右铭2"
+		},
+		{
+			"bg-image": "C:\\Users\\YUANSHIYI\\Pictures\\19889_en_1.jpg",
+			"person-image": "C:\\Users\\YUANSHIYI\\Pictures\\小丑\\368d501832ee6caccfd8eeed5282393c.jpg",
+			"people-name": "小丑",
+			"ContactInformation": "sdajk@163.com",
+			"peoplemoreinfo1": "配置管理员",
+			"peoplemoreinfo2": "座右铭123",
+			"peoplemoreinfo3": "座右铭13"
 		}
 	]
 }
