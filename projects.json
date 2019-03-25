@@ -40,7 +40,7 @@
 					"subprojectinfo": "B计划子计划"
 				}
 			],
-			"mark": 10
+			"mark": 0
 		},
 		{
 			"company": "小丑世界房地产",
@@ -67,11 +67,11 @@
 			"company": "楼世界房地产",
 			"type": "住宅",
 			"chargeperson": "小楼",
-			"mark": 0,
+			"mark": 100,
 			"projectid": 2000,
 			"starttime": "2019-03-21",
 			"endtime": "2019-04-17",
-			"state": "0",
+			"state": "3",
 			"moreinfo": "小楼的项目计划啊啊啊啊啊",
 			"subproject": [
 				{
